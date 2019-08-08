@@ -18,7 +18,4 @@ OKAY
 BABA YAGI
 ### License
 
-* LICENSED UNDER [MIT license](LICENCE)
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/license)

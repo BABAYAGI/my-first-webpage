@@ -17,4 +17,5 @@ OKAY
 ## Support and contact details
 BABA YAGI
 ### License
-* LICENSED UNDER [MIT license] _(LICENSE)_
+
+* LICENSED UNDER [MIT license](LICENCE)
